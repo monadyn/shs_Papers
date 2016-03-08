@@ -1,0 +1,59 @@
+Accepted posters:
+
+    vTZ: A Case for TrustZone Virtualization,
+    Zhichao Hua, Jinyu Gu, Wenhao Li, Yubin Xia and Haibo Chen (Shanghai Jiao Tong University) (pdf)
+
+    XOS: An Application Defined Operating System in User-space designed for Datacenter,
+    Chen Zheng, Jianfeng Zhan and Lixin Zhang (Institute of Computing Technology, Chinese Academy of Sciences) (pdf)
+
+    Starving for Hints!: Toward Predicting Resource Usage Levels of Tasks in a Distributed Computing Framework Layer,
+    Masato Asahara (NEC Green Platforms Research Laboratories) and Takeshi Yoshimura (Keio University) (pdf)
+
+    A Hypervisor for Manipulating Guest Screens,
+    Yoshihiro Oyama (The University of Electro-Communications) (pdf)
+
+    lua_syscall: Specializing Operating System Kernels by Using the Lua Language,
+    Ake Koomsin and Yasushi Shinjo (University of Tsukuba) (pdf)
+
+    Taming the Cloud Object Storage with MOS,
+    Ali Anwar, Yue Cheng (Virginia Tech), Aayush Gupta(IBM Research, Almaden) and Ali R. Butt (Virginia Tech) (pdf)
+
+    Dynamic and Secure Application Consolidation with Nested Virtualization and Library OS in Clouds,
+    Kota Sannomiya and Kenich Kourai (Kyushu Institute of Technology) (pdf)
+
+    Secure IDS Offloading with Nested Virtualization in Untrusted Cloud,
+    Shouhei Miyama and Kenichi Kourai (Kyushu Institute of Technology) (pdf)
+
+    A New Perspective on Supporting QoS in Architecture: Computer as a Network,
+    Tianni Xu, Jiuyue Ma, Zhicheng Yao, Xiufeng Sui and Yungang Bao (Institute of Computing Technology and Chinese Academy of Sciences) (pdf)
+
+    FPGA based low-latency IPv6 Route Lookup Using Dynamic XOR Table,
+    Takeshi Matsuya (Keio University), Hajime Tazaki (University of Tokyo), Yohei Kuga, Rodney Van Meter and Osamu Nakamura (Keio University) (pdf)
+
+    A big-data Analytics Framework with Efficient Support for Dynamic Languages,
+    Luca Salucci, Walter Binder (Universit della Svizzera Italiana) and Daniele Bonetta (Oracle Labs) (pdf)
+
+    An Implementation Model for Cloud Storage Systems,
+    Vinh Tao (Scality and Inria-LIP6), Vianney Rancurel (Scality) and Joao Neto (KTH and Inria-LIP6) (pdf)
+
+    Memory Management for Memory-based Inter-Task Communication on the Hybrid Operating System Node,
+    Mikiko Sato (Tokyo University of Agriculture and Technology), Kazumi Yoshinaga, Yuichi Tsujita, Atsushi Hori (RIKEN AICS) and Mitaro Namiki(Tokyo University of Agriculture and Technology) (pdf)
+
+    Containing the Hype,
+    Kavita Agarwal, Bhushan Jain and Donald E. Porter (Stony Brook University) (pdf)
+
+    A Study on GC Performance of ART,
+    Shintaro Hamanaka and Saneyasu Yamaguchi (Kogakuin University Graduate School) (pdf)
+
+    Exit-Less Isolated Execution,
+    Yushi Omote (University of Tsukuba), Takahiro Shinagawa (The University of Tokyo) and Kazuhiko Kato (University of Tsukuba) (pdf)
+
+    Selective QoS Guarantees for Heterogeneous Applications in Android Memory Management,
+    Eunji Lee, Sunghwan Kim (Chungbuk National University), Minah Kim, Hyunkyoung Choi and Hyokyung Bahn (Ewha Womans University) (pdf)
+
+    Testing Device Drivers against Hardware Failures in Real Environments,
+    Satoru Takekoshi, Takahiro Shinagawa (The University of Tokyo) and Kazuhiko Kato (University of Tsukuba) (pdf)
+
+    A new framework for baremetal OS,
+    Iori Yoneji, Yushi Omote (University of Tsukuba), Takahiro Shinagawa (The University of Tokyo) and Kazuhiko Kato (University of Tsukuba) (pdf)
+
